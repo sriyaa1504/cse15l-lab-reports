@@ -8,4 +8,5 @@
 *This is the site with all relevant links*
 ---
 
+[Link](https://sriyaa1504.github.io/cse15l-lab-reports/cse15l.md)
 
