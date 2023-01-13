@@ -41,4 +41,5 @@ CONTENT
 
 - Finally, to log out press Ctrl+D
 - Then, execute the 'exit' command
+
 ![Image](fifth.png)
