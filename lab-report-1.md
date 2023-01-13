@@ -3,7 +3,7 @@
 ## Topic : Remote Access
 ---
 ```
-**CONTENT**
+CONTENT
 1. Installing VScode
 2. Remotely Connecting
 3. Trying Some Commands
@@ -12,6 +12,7 @@
 - The first step is to install a code editor called VSCode or Visual Studio Code.
 - To do so, go to their website and follow the commands written to download and install VSCode.
 - If you are able to successfuly install it, the follow screen should be visible:
+![Image](first.png)
 
 
 > 2. Remotely Connecting
