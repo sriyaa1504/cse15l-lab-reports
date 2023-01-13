@@ -8,5 +8,5 @@
 *This is the site with all relevant links*
 ---
 
-[Link](cse15l.md)
+[Click on this for my first CSE15L lab report!](lab-report-1.md)
 
