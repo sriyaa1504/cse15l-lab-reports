@@ -24,9 +24,13 @@ CONTENT
   - type yes and press enter, then give your password
   - Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! 
   - We call your computer the client and the computer in the basement the server based on how you are connected
+ ![Image](second.png)
+ 
 
 > 3. Run Some Commands
 - Try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways, both on your computer, and on the remote computer
+![Image](third.png)
+
 
 > 4. Log Out
 - Finally, to log out press Ctrl+D
