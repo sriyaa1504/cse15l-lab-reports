@@ -58,3 +58,5 @@ CONTENT
     - Since I'm on a mac, I got logged out without having to execute the 'exit' command    
 
 ![Image](fifth.png)
+
+###Thank You
