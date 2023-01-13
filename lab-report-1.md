@@ -6,8 +6,11 @@
 CONTENT
 1. Installing VScode
 2. Remotely Connecting
-3. Trying Some Commands
+3. Trying Different Commands
+4. Logging Out
 ```
+**OVERVIEW**
+
 > 1. Installing VScode
 
 - The first step is to install a code editor called VSCode or Visual Studio Code.
