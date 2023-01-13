@@ -18,7 +18,7 @@ CONTENT
 4. Logging Out
 ```
 
->  1. Installing VScode
+>  Installing VScode
 
 - The **first step** is to install a code editor on your device, I recommend VSCode or Visual Studio Code.
 - To do so, go to their website and follow the commands written to download and install VSCode.
@@ -26,7 +26,7 @@ CONTENT
 ![Image](first.png)
 
 
->  2. Remotely Connecting
+>  Remotely Connecting
 
 - The next step in this lab is how to use VScode to connect to a remote computer so that you can perform tasks there
 - If you're on windows : 
@@ -42,7 +42,7 @@ CONTENT
  ![Image](fourth.png)
  
 
->  3. Run Some Commands
+>  Run Some Commands
 
 - Try running some `commands` that you know of on both the computers and understand the outputs.
 - Some suggested commands are cd, ls, pwd, mkdir, and cp. 
@@ -51,7 +51,7 @@ CONTENT
 ![Image](third.png)
 
 
->  4. Log Out
+>  Log Out
 
 - Finally, to `log out` press Ctrl+D
 - Then, execute the **'exit'** command.
