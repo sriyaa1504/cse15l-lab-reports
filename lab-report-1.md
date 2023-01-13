@@ -2,6 +2,12 @@
 ---
 ## Topic : Remote Access
 ---
+
+```
+/**OVERVIEW**
+ The main idea of this lab report is to establish connection between your (user's) computer and the remote computer over the Internet. Your computer is called the `client` and the remote computer is called the `server`. Once a connection is established, you should be able to do your own work on the remote computer - any commands you run will run on the server. 
+```
+
 ```
 CONTENT
 1. Installing VScode
@@ -9,11 +15,10 @@ CONTENT
 3. Trying Different Commands
 4. Logging Out
 ```
-**OVERVIEW**
 
 > 1. Installing VScode
 
-- The first step is to install a code editor called VSCode or Visual Studio Code.
+- The ==first step== is to install a code editor on your device, I recommend VSCode or Visual Studio Code.
 - To do so, go to their website and follow the commands written to download and install VSCode.
 - If you are able to successfuly install it, the follow screen should be visible:
 ![Image](first.png)
@@ -21,22 +26,26 @@ CONTENT
 
 > 2. Remotely Connecting
 
-- The next step in this lab is how to use VScode/terminal to connect to a remote computer over the Internet to do work there
+- The next step in this lab is how to use VScode to connect to a remote computer so that you can perform tasks there
 - If you're on windows : 
-  - install git for Windows
-  - Then, to use ssh, open a terminal in VScode
-  - Since this is likely the first time you’ve connected to this server, you will probably get a message like this:
-  - type yes and press enter, then give your password
-  - Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! 
-  - We call your computer the client and the computer in the basement the server based on how you are connected
+  - Install git for Windows.
+- Then, open a terminal in VScode in order to use ssh.
+- If this is the first time you are connecting to the server, a message like this should pop up:
+ ![Image](x.png)
+- Type yes and press enter. Follow up by entering your password.
+- Now your device is connected to a remote computer, and any commands you run on your device will run on that computer! 
+- The following image should be the final screen you see after following all the above steps.
  ![Image](second.png)
- - The following image is what you should see when you login after the first time: 
+- The next image is what you should see when you login after the first time: 
  ![Image](fourth.png)
  
 
 > 3. Run Some Commands
 
-- Try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways, both on your computer, and on the remote computer
+- Try running some commands that you know of on both the computers and understand the outputs
+- Some suggested commands are cd, ls, pwd, mkdir, and cp 
+- Feel free to try your own variations!
+- Attached below, are some examples of commands I ran
 ![Image](third.png)
 
 
@@ -44,5 +53,6 @@ CONTENT
 
 - Finally, to log out press Ctrl+D
 - Then, execute the 'exit' command
+    - Since I'm on a mac, I got logged out without having to execute the 'exit' command    
 
 ![Image](fifth.png)
