@@ -7,6 +7,6 @@
 
 *This is the site with all relevant links*
 ---
-
-[Click on this for my first CSE15L lab report!](lab-report-1.md)
+Following are the links to my lab reports - 
+1. [Lab Report 1](lab-report-1.md)
 
