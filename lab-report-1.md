@@ -27,6 +27,8 @@ CONTENT
   - Now your terminal is connected to a computer in the CSE basement, and any commands you run will run on that computer! 
   - We call your computer the client and the computer in the basement the server based on how you are connected
  ![Image](second.png)
+ - The following image is what you should see when you login after the first time: 
+ ![Image](fourth.png)
  
 
 > 3. Run Some Commands
@@ -39,3 +41,4 @@ CONTENT
 
 - Finally, to log out press Ctrl+D
 - Then, execute the 'exit' command
+![Image](fifth.png)
