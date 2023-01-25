@@ -52,13 +52,17 @@ CONTENT
 - Feel free to try your own *variations*!
 - Attached below, are some examples of commands I ran.
 ![Image](third.png)
-
+- A few things I learnt after experimenting with different commands:
+  - Firstly, all users connect to different devices but are part of the same cluster.
+  - I tried using `cat` command in an invalid manner which led to an error message.
+  - `ls -a` and `ls -lat`return different information
+  - `ls -a` lists all the files including hidden files that start with a “.”
 
 >  Log Out
 
 - Finally, to `log out` press Ctrl+D
 - Then, execute the `exit` command.
-    - Since I'm on a mac, I got logged out without having to execute the 'exit' command.    
+  - Since I'm on a mac, I got logged out without having to execute the 'exit' command.    
 
 ![Image](fifth.png)
 
