@@ -9,4 +9,5 @@
 ---
 Following are the links to my lab reports - 
 1. [Lab Report 1](lab-report-1.md)
+2. [Lab Report 1](lab-report-2.md)
 
