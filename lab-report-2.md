@@ -30,6 +30,7 @@
     - It is called by `getQuery()`
     - The query in the first part is `str=HelloWorld`
     - The query in the second part is `str=Sriya`
+
 ---
 ### PART 2
 > The bug I choose for this part is in the reverseInPlace method
