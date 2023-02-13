@@ -4,7 +4,8 @@
 ---
 ### The command I will be choosing for this lab report is `-grep`
 ---
-> COMMAND 1
+> COMMAND 1 `-r`
+**SOURCE: ChatGPT**
 ```
 EXAMPLE 1 
 Command: [cs15lwi23ain@ieng6-202]:skill-demo1-data:400$ grep -r "Hello" .
@@ -18,5 +19,49 @@ Output:
 - It returns all occurences of the word "Hello".
 - It is beneficial when we want to search for a specific word in all the files present.
 
-```EXAMPLE 2
+```
+EXAMPLE 2
+Command: [cs15lwi23ain@ieng6-202]:skill-demo1-data:401$ grep -r --exclude-dir=non-fiction "Hello" .
+
+Output:
+./written_2/travel_guides/berlitz1/WhereToFrance.txt:        Saint-Wandrille, Le Bec-Hellouin, and Caen, culminating in their
+```
+- This command uses `--exclude-dir=` to exclude a directory while searching for a pattern.
+- The `.` searches through all the files present.
+- This command can be useful when there a lot of directories and we want to ignore only a specific one.
+
+> COMMAND 2 `-c`
+**SOURCE: ChatGPT**
+```
+EXAMPLE 1
 Command:
+[cs15lwi23ain@ieng6-202]:Berk:411$ grep -c "Hello" CH4.txt
+
+Output:
+2
+```
+- This command uses `-c` to count the number of occurrences of a pattern in a file.
+- This can be useful when the file is huge.
+
+```
+EXAMPLE 2
+Command:
+[cs15lwi23ain@ieng6-202]:Berk:412$ grep -v -c "Hello" CH4.txt
+
+Output:
+311
+```
+- This command uses `-v` to count the number of lines in a file that do not match a pattern.
+- It helps when there are many lines in a file and the pattern occurs only a few times.
+
+> COMMAND 3 `-i`
+**SOURCE: ChatGPT**
+```
+EXAMPLE 1
+Command:
+[cs15lwi23ain@ieng6-202]:Berk:413$ grep -i "hello" CH4.txt ch2.txt
+
+Output:
+
+```
+- The `-i` command allows you to perform a case-insensitive search for a pattern in a file 
