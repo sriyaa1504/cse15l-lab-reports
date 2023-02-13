@@ -59,10 +59,10 @@ public void testReverseInPlace(){
 **The Symptom**
 > Failed Output
 ![Image](4.png)
-![Image](4.png)
+![Image](5.png)
 
 > Passed Output
-![Image](4.png)
+![Image](6.png)
 
 **The Bug**
 > Before
