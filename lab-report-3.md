@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 3
 ---
 ## Topic : Researching Commands
 ---
@@ -6,6 +6,7 @@
 ---
 
 > COMMAND 1 `-r`
+
 **SOURCE: ChatGPT**
 
 ```
@@ -36,6 +37,7 @@ Output:
 
 
 > COMMAND 2 `-c`
+
 **SOURCE: ChatGPT**
 
 ```
@@ -62,6 +64,7 @@ Output:
 
 
 > COMMAND 3 `-i`
+
 **SOURCE: ChatGPT**
 
 ```
@@ -88,6 +91,7 @@ Output:
 - Since there are no occurences of "hello" in any of those files, the output is empty.
 
 > COMMAND 4 `-A`
+
 **SOURCE: ChatGPT**
 
 ```
@@ -105,7 +109,8 @@ Around age 2, children begin to pretend with less realistic toys, such as a bloc
     - `CH4.txt`: the file
 - It can be a useful tool for quickly finding and understanding the occurrences of a pattern in a file.
 
-```EXAMPLE 2
+```
+EXAMPLE 2
 Command:
 [cs15lwi23ain@ieng6-202]:Berk:413$ grep -n -A 1 "Hello" CH4.txt
 
