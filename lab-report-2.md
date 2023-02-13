@@ -19,8 +19,17 @@
 ![Image](3.png)
 
 - For both the screenshots above, the method `handleRequest` is called.
-- The argument for the method is the url in the image attached above.
-
+- The argument for the method is the path in the image attached above.
+    - It is a URI object which passes in a string that represents the URI.
+- The argument to the method `handleRequest` is the uri of the webpage
+    - It is `localhost:4200/add-message?str=HelloWorld`
+- The path field remains the same in both screenshots
+    - It is called by `getPath()`
+    - The path is `/add-message`
+- The query field changes in both the screenshots
+    - It is called by `getQuery()`
+    - The query in the first part is `str=HelloWorld`
+    - The query in the second part is `str=Sriya`
 ---
 ### PART 2
 > The bug I choose for this part is in the reverseInPlace method
