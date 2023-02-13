@@ -34,7 +34,7 @@ Output:
 - This command uses `--exclude-dir=` to exclude a directory while searching for a pattern.
 - The `.` searches through all the files present.
 - This command can be useful when there a lot of directories and we want to ignore only a specific one.
-
+---
 
 ### COMMAND 2 `-c`
 
@@ -61,7 +61,7 @@ Output:
 ```
 - This command uses `-v` to count the number of lines in a file that do not match a pattern.
 - It helps when there are many lines in a file and the pattern occurs only a few times.
-
+---
 
 ### COMMAND 3 `-i`
 
@@ -89,6 +89,7 @@ Output:
 ```
 - The `-i` command can also be performed on multiple files at once which saves time and labor.
 - Since there are no occurences of "hello" in any of those files, the output is empty.
+---
 
 ### COMMAND 4 `-A`
 
