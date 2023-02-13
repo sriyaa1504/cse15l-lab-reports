@@ -5,9 +5,9 @@
 ### The command I will be choosing for this lab report is `-grep`
 ---
 
-> COMMAND 1 `-r`
+### COMMAND 1 `-r`
 
-**SOURCE: ChatGPT**
+> **SOURCE: ChatGPT**
 
 ```
 EXAMPLE 1 
@@ -36,9 +36,9 @@ Output:
 - This command can be useful when there a lot of directories and we want to ignore only a specific one.
 
 
-> COMMAND 2 `-c`
+### COMMAND 2 `-c`
 
-**SOURCE: ChatGPT**
+> **SOURCE: ChatGPT**
 
 ```
 EXAMPLE 1
@@ -63,9 +63,9 @@ Output:
 - It helps when there are many lines in a file and the pattern occurs only a few times.
 
 
-> COMMAND 3 `-i`
+### COMMAND 3 `-i`
 
-**SOURCE: ChatGPT**
+> **SOURCE: ChatGPT**
 
 ```
 EXAMPLE 1
@@ -90,9 +90,9 @@ Output:
 - The `-i` command can also be performed on multiple files at once which saves time and labor.
 - Since there are no occurences of "hello" in any of those files, the output is empty.
 
-> COMMAND 4 `-A`
+### COMMAND 4 `-A`
 
-**SOURCE: ChatGPT**
+> **SOURCE: ChatGPT**
 
 ```
 EXAMPLE 1
